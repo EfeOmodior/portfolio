@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-image: url(https://4kwallpapers.com/images/wallpapers/astronaut-black-hole-deep-space-universe-cosmos-surreal-3840x2160-6743.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .container {
+    margin-top: 0;
+  }
+  
+  .border {
+    background-color: rgb(164, 10, 10);
+    height: 25%;
+    width: 100%;
+    text-align: center;
+  }
+  
+  p {
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  h2 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h1{
+    color: white;
+    font-family: arial;
+  }
+
+  a{
+    color:aqua
+  }
+  
+  a:hover{
+    color:red
+  }
+
+  .background, .interests,.philosophy {
+    padding: 20px;
+  }
+
+  
+  
